@@ -1,4 +1,4 @@
-name: Java 23 Build
+name: Java 17 Build
 
 on:
   push:
